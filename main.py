@@ -48,11 +48,4 @@ elif num < 0:
   # count up negative number
   countup(num)
 else:
-  # there is no difference which function to call
-  # in case of 0, both functions will print 'Blastoff!'
   print('Blastoff!')
-
-# Outputs:
-# num=3    3 2 1 Blastoff!
-# num=-3   -3 -2 -1 Blastoff!
-# num=0    Blastoff!
